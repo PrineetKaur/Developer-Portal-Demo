@@ -126,7 +126,7 @@ Your live site will be published automatically at:
 👉 **https://YOUR_Username.github.io/Developer-Portal-Demo/**
 
 
-## 8️⃣ Verify Deployment
+### 8️⃣ Verify Deployment
 
 1. Go to your repository on GitHub → **Settings → Pages**
 2. Under *Branch*, ensure the following is set:
