@@ -51,7 +51,7 @@ MkDocs automatically builds the static site and pushes it to your repository’s
 
 ---
 
-## How to Run Locally
+## How to Run Locally (Step by Step Guide)
 
 ### 1️⃣ Install Python
 
