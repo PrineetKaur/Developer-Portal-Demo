@@ -1,0 +1,11 @@
+site_name: Demo Developer Portal
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - API Reference:
+      - Payments API: payments.md
+  - Tutorials:
+      - Build Your First App: tutorials/tutorial1.md
+  - Release Notes: release-notes.md
