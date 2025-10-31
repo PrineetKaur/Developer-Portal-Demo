@@ -4,7 +4,7 @@
 
 This *Developer Documentation Portal* demo was built with **[MkDocs](https://www.mkdocs.org/)** and using the **Material for MkDocs** theme.
 
-This repository is ideal for anyone learning to build and host developer-facing documentation sites using a **Docs-as-Code** approach and showcasing ***technical documentation best practices for APIs, release notes,*** and ***onboarding tutorials***. 
+This repository is ideal for anyone learning to build and host developer-facing documentation sites using a **Docs-as-Code** approach and showcasing ***Technical Documentation Best Practices*** for *APIs, release notes,* and *onboarding tutorials*. 
 
 This allows technical writers and developers to collaborate using the same tools and workflows as engineers.
 
